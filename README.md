@@ -7,7 +7,7 @@ A [Paseo](https://paseo.sh) plugin that opens a workspace directory in your term
 ## Install
 
 ```bash
-paseo plugin install github:lilgallon/paseo-open-terminal
+paseo plugin install github:lilgallon/paseo-open-in-terminal
 ```
 
 ## Usage
