@@ -1,0 +1,8 @@
+{
+  "id": "open-in-terminal",
+  "name": "Ouvrir dans le terminal",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.15.3"
+  }
+}
